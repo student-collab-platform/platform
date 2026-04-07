@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=student_collab_platform
+POSTGRES_USER=UmtCBmtDFAlaIUqXoiCPtQlqVQUpYsGp
+POSTGRES_PASSWORD=egGFXouoLGy5FSK6KEloN1ug4DRhbWu5IR1qOLq3WI3oEAjF6XxCvZLipwy0V1LN
